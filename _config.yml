@@ -2,6 +2,7 @@ name: BitcoinWorld
 favicon: null
 layout_spectrum: 0.45231148949824274
 typography_spectrum: 0.1346833985298872
+title: Bringing you the latest news and information about BTC
 cta:
   domain: null
   bucket: null
