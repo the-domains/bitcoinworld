@@ -4,7 +4,7 @@
         <description><![CDATA[Bringing you the latest news and information about BTC]]></description>
         <link>https://thegrid.ai/bitcoinworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 20:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 23:29:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoinworld/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bitcoinworld/71c0884d-42e4-46c9-8b25-99d21504165f/index.html</link>
             <guid isPermaLink="false">71c0884d-42e4-46c9-8b25-99d21504165f</guid>
             <pubDate>Sat, 09 Apr 2016 20:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“Bitcoin Bank” Circle announced that people in the U.K. can now experience social payments over the open Internet in their native currency, pound sterling (GBP), using Circle’s updated apps for Android, iOS and the Web. The company was granted an e-money license by the U.K. Financial Conduct Authority.</p>]]></description>
+            <link>https://thegrid.ai/bitcoinworld/bitcoin-bank-circle/index.html</link>
+            <guid isPermaLink="false">478794e8-3bfe-48ab-bc14-5ab9f8b94e54</guid>
+            <pubDate>Mon, 18 Apr 2016 23:28:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
